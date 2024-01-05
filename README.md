@@ -1,2 +1,2 @@
 # MC-goodall-datapack
-Example datapack for the Goodall mod.
+Example of a datapack that tweaks what crates can hold in the Goodall Minecraft mod.
